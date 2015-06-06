@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prime_to_n_finder", "prime_to_n_finder\prime_to_n_finder.vcxproj", "{C195030E-F6AD-40B5-9522-2B0F6A882DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C195030E-F6AD-40B5-9522-2B0F6A882DCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{C195030E-F6AD-40B5-9522-2B0F6A882DCD}.Debug|x86.Build.0 = Debug|Win32
+		{C195030E-F6AD-40B5-9522-2B0F6A882DCD}.Release|x86.ActiveCfg = Release|Win32
+		{C195030E-F6AD-40B5-9522-2B0F6A882DCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
